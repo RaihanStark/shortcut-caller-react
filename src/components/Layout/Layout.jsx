@@ -20,8 +20,6 @@ import {
   Divider,
   ListSubheader,
 } from "@mui/material";
-import InboxIcon from "@mui/icons-material/Inbox";
-import DraftsIcon from "@mui/icons-material/Drafts";
 
 import theme from "../../theme";
 import { ThemeProvider } from "@mui/material/styles";

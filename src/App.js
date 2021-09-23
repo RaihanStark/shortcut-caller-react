@@ -8,7 +8,6 @@ import {
   AppBar,
   IconButton,
   Divider,
-  Button,
   Typography,
   Toolbar,
   ListItemIcon,
